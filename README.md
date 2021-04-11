@@ -2,8 +2,8 @@
 
 ## Contributors (Group 1)
 
-- Mariana Mariles (marilesm, 400129060)
-- Sujan Kandeepan (kandeeps, 400079697)
+- Mariana Mariles
+- Sujan Kandeepan
 
 ## Features Implemented
 
