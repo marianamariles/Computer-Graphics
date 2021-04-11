@@ -1,6 +1,6 @@
 # CS 3GC3 - Project
 
-## Contributors (Group 1)
+## Contributors
 
 - Mariana Mariles
 - Sujan Kandeepan
@@ -11,7 +11,7 @@ The project requires implementation of an OpenGL-based 3D graphics program.
 
 ## Proposal
 
-The OpenGL-based 3D graphics program project, my partner and I have decided to create is an endless runner game. Specifically, players of our game will control a rocket and once the game commences, the rocket will launch into a tunnel where the player will have the point of view of the rocket from behind. 
+My partner and I have decided to create an endless runner game. Specifically, players of our game will control a rocket and once the game commences, the rocket will launch into a tunnel where the player will have the point of view of the rocket from behind. 
 
 Throughout the game, the player will have to move through the tunnel between dangerous objects (for example, a bomb) and obstacles, such as rocks in order to remain playing. If the player happens to hit such an object, the rocket will blow up. Users will have the ability to rotate and move right, left, up and down while continuing forward. There will be coin-like objects which spin and shine once they are collected so that it is apparent to the player that it was retrieved as this will create more of an incentive for players to move the rocket from right to left, up and down for the duration of the game. In addition, there will be a timer set up so that players can try to beat their previous scores based on how long they survived.
 
